@@ -60,7 +60,7 @@ namespace App.UI.Desktop
             entity.Address = txtAddress.Text.Trim();
             entity.City = txtCity.Text.Trim();
             entity.State = txtState.Text.Trim();
-            entity.Country = txtCompany.Text.Trim();
+            entity.Country = txtCountry.Text.Trim();
             entity.PostalCode = txtPostalCode.Text.Trim();
             entity.Phone = txtPhone.Text.Trim();
             entity.Fax = txtFax.Text.Trim();
